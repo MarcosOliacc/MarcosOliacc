@@ -18,6 +18,7 @@
 [![Blog](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+[![Blog](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
 
 ![Marcos GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcosOliacc&show_icons=true&theme=tokyonight)
 
